@@ -1,0 +1,25 @@
+/* Vanlig länk */
+a {
+    color: #00ff9d;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 15px;
+}
+
+/* När man hovrar */
+a:hover {
+    color: #ff00aa;
+    text-decoration: underline;
+}
+
+/* När man klickat (visited) */
+a:visited {
+    color: #aaaaaa;
+}
+
+/* Aktiv (när man håller ner musen) */
+a:active {
+    color: #ffff00;
+}
+
+Flex containe
